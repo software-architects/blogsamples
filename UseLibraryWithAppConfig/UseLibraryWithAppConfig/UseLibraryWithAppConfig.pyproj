@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="system_configuration.py" />
     <Compile Include="UseLibraryWithAppConfig.py" />
   </ItemGroup>
   <ItemGroup>
